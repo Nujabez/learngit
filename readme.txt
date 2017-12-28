@@ -1,4 +1,1 @@
-Git is a version control system.
-Git is free software.
-git is good.better than others.
-666
+created my first connected git
